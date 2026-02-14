@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../week-2/session-1/live"
+		},
+		{
+			"path": "../../../../../client"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "client"
+	}
+}
